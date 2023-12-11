@@ -1,4 +1,5 @@
-[
+{"books":
+  [
   {
     "id": "1",
     "img_src": "http://books.google.com/books/content?id=J9G50L3c14QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
@@ -8,3 +9,4 @@
     "img_src": "http://books.google.com/books/content?id=J9G50L3c14QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   }
 ]
+}
