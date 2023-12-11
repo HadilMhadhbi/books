@@ -21,11 +21,15 @@
     "img_src": "http://books.google.com/books/content?id=wuqaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
      {
-    "id": "5",
+    "id": "6",
     "img_src": "http://books.google.com/books/content?id=wuqaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
      {
-    "id": "5",
+    "id": "7",
+    "img_src": "http://books.google.com/books/content?id=Z5Ot7ySoAMYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+     {
+    "id": "7",
     "img_src": "http://books.google.com/books/content?id=Z5Ot7ySoAMYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   }
 ]
